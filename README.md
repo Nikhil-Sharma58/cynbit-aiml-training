@@ -1,1 +1,1 @@
-# cynbit AI/ML training
+# Cynbit AI/ML Training
