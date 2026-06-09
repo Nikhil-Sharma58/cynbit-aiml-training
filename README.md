@@ -1,1 +1,1 @@
-# cynbit-aiml-training
+# cynbit AI/ML training
